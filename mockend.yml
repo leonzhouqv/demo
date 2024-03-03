@@ -2,8 +2,8 @@ models:
   Policy:
     fake:
       _count: 10
-      cover: { imageURL: [1920, 1080] }
-      title: { loremWords: [5, 20] }
+      linke: { imageURL: [1920, 1080] }
+      name: { loremWords: [5, 20] }
       body: { loremParagraphs: [10, 100] }
       category: { oneOfString: [one, two, three] }
       isDraft: { bool: 20 }
