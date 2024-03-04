@@ -1,3 +1,5 @@
 models:
   Post:
     data: [{ title: 'Title 1' }, { title: 'Title 2' }]
+  Coin:
+    data: [ { name: 'ETH', amount: 3000 }, { name: 'BTC', amount: 2000 },{ name: 'BCH', amount: 1000 } ]  
