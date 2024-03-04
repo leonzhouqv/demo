@@ -4,6 +4,5 @@ models:
   Transaction:
     data: [ { coin: 'ETH' ,sellAmount: 0.00109, amount: 3000 },{ name: 'BCH' , sellAmount: 0.00109, amount: 1000 } ]
   Policy:
-    _count: 6
     data: [ { name: '利用規約', url: 'https://google.com' },  { name: '重要事項説明書', url: 'https://google.com' }, { name: 'プライバシーポリシー', url: 'https://google.com' }, { name: '特定商取引における表記', url: 'https://google.com' }, { name: '電子文書サービス', url: 'https://google.com' }, { name: '反社会的勢力でないことの確約', url: 'https://google.com' } ]
    
